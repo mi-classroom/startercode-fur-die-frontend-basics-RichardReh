@@ -1,0 +1,47 @@
+
+
+    body {
+        background-color: #E6E6E6;
+        color: #101010;
+        line-height: 154%;
+        margin: 0;
+        overscroll-behavior: none;
+    }
+
+
+titel {
+    color : gray;
+    font-family: system-ui, system-ui, sans-serif;
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: right;
+}
+
+subtitel {
+    color : black;
+    font-family: system-ui, system-ui, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: left;
+}
+
+p {
+    color : gray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+    font-weight: lighter;
+    text-align: left;
+}
+
+cite {
+    color : rgb(163, 163, 163);
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+    font-weight: lighter;
+    text-align: left;
+}
+
+table, th, td {
+    border: 2px solid;
+    background-color: aqua;
+}
